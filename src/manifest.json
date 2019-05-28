@@ -1,0 +1,31 @@
+{
+  "manifest_version": 1,
+  "version": 1,
+  "type": "APP",
+  "desktop": {
+    "js": [
+      "js/jquery-3.4.1.min.js",
+      "js/desktop.js"
+    ],
+    "css": [
+      "css/desktop.css"
+    ]
+  },
+  "icon": "image/icon.png",
+  "config": {
+    "html": "html/config.html",
+    "js": [
+      "js/config.js"
+    ],
+    "css": [
+    ],
+    "required_params": [
+    ]
+  },
+  "name": {
+    "en": "destructive-tetris"
+  },
+  "description": {
+    "en": "destructive-tetris"
+  }
+}
