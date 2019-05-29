@@ -5,7 +5,7 @@
   "desktop": {
     "js": [
       "js/jquery-3.4.1.min.js",
-      "js/desktop.js"
+      "js/destructive-tetris.js"
     ],
     "css": [
       "css/desktop.css"
